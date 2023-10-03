@@ -28,9 +28,9 @@ def connect_to_database():
     try:
         conn = mariadb.connect(
             user="root",
-            password="Bmed2007#2020",
+            password="password",
             host="localhost",
-            database="hacktown"
+            database="DBName"
         )
         cur = conn.cursor()
         return cur, conn
