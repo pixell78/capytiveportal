@@ -5,5 +5,5 @@
 # Email: bruno@terminalx.net.br
 # Whatssap: +55 35 984413336
 #########################################################################################################################################
-Captive portal para coleta de dados em hotspot free.
+This script uses a lib httpd for 
 
