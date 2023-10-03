@@ -64,7 +64,7 @@ class CaptivePortal(http.server.BaseHTTPRequestHandler):
     html_redirect_hack = """
     <html>
     <head>
-    <meta http-equiv="refresh" content="0; url=https://hacktown.com.br" />
+    <meta http-equiv="refresh" content="0; url=https://seusite.com.br" />
     </head>
     <body>
     <h1>...</h1>
