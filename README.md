@@ -24,6 +24,6 @@ Para que este script funcione, é necessário criar uma estrutura de tabela usan
 ## Configuração de Hardware
 Foi utilizado um Raspberry Pi 4 com 4GB de RAM, uma interface USB/Ethernet 3.0 gigabit, executando Debian. Algumas regras iptables foram utilizadas para fazer NAT, DHCP entre a internet e a rede local, além de um ponto de acesso com a rede Wi-Fi aberta dentro da LAN.
 
-## Autenticação de Usuários
+## Autenticação de Usuários 
 Qualquer usuário que deseje navegar precisará se autenticar, ou seja, se registrar para poder acessar a internet.
 
